@@ -1,0 +1,1 @@
+web: gunicorn MineLearning.wsgi --log-file -

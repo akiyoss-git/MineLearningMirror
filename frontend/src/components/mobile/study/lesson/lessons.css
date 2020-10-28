@@ -1,0 +1,62 @@
+@import "https://fonts.googleapis.com/css?family=Pridi";
+
+.lessonsblock{
+    position: relative;
+    margin-top: 2%;
+    margin-left: 5%; 
+    width: 90%;
+    background: rgba(53, 70, 72, 0.4);
+    border-spacing: 0px 11px; /* Расстояние между ячейками */ 
+    table-layout: fixed;
+}
+
+.lesson-m{
+    position: relative;
+    margin-top: 1%;
+    width: 95%;
+    height: 60px;
+    background: rgba(53, 70, 72, 0.6);
+    transition: ease .2s;
+}
+
+.lesson-m:hover{
+    background: rgba(53, 70, 72, 0.9);
+}
+
+.lessonname{
+    text-align: left;
+    font-family: Pridi;
+    margin-left: 3%;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 0.025em;
+
+    color: #F4EBDB;
+}
+
+.lessonpreview{
+    position: relative;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Pridi;
+    color: #F4EBDB;
+}
+
+.lessonsblock td{
+    width: 100%;
+}
+
+.courname{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Pridi;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 43px;
+    line-height: 56px;
+    letter-spacing: 0.025em;
+
+    color: #F4EBDB;
+}

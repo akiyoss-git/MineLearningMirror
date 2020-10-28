@@ -1,0 +1,32 @@
+.footer-body{
+
+    position: relative;
+    height: 70px;
+    width: 100%;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    background: #F4EBDB;
+    box-shadow: 22px -7px 20px rgba(0, 0, 0, 0.4);
+}
+
+td, th{
+    border: 3px;
+}
+
+.icons{
+    width: 70%;
+    height: 70%;
+}
+
+.lorem{
+    height: 16px;
+    width: 100%;
+    background: #F4EBDB;
+}
+
+table{
+    margin-left: 1%;
+}
+
+

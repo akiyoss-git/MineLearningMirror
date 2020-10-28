@@ -1,0 +1,15 @@
+.not-found{
+    position: relative;
+    text-align: center;
+}
+
+.nftext{
+    position: relative;
+    margin-top: 36%;
+}
+
+.nfimg{
+    width: 70%;
+    height: 70%;
+    margin-left: 15%;
+}

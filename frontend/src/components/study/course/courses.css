@@ -1,0 +1,8 @@
+.panel{
+    position: relative;
+    margin-top: 18px;
+    left: 2,5%; 
+    width: 95%;
+    height: 300px;
+    background: rgba(53, 70, 72, 0.6);
+}

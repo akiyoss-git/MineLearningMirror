@@ -1,0 +1,68 @@
+@import "https://fonts.googleapis.com/css?family=Pridi";
+
+.headermobile{
+  position:fixed;
+  top:0;
+  z-index: 1000;
+}
+
+.header-body-mobile{
+    height: 7%;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    
+    background: #F4EBDB;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.6);
+}
+
+.sidebarbutton{
+  position: relative;
+  height: 7%;
+  width: 120px;
+  margin-top: 15px;
+  border: none;
+  background: #f3e5ce;
+  font-family: Pridi;
+  font-style: normal;
+  font-weight: normal;
+
+/* or 91% */
+
+align-items: center;
+text-align: center;
+letter-spacing: -0.41px;
+color: #2C4A52;
+
+}
+
+.sidebarbuttons{
+  position: absolute;
+  height: 6%;
+  left: 0px;
+  top: 0px;
+  border:none;
+  background: #F4EBDB;
+  font-family: Pridi;
+  font-style: normal;
+  font-weight: normal;
+
+/* or 91% */
+
+align-items: center;
+text-align: center;
+letter-spacing: -0.41px;
+color: #2C4A52;
+
+}
+
+.sidebarbuttons-img{
+  width: 60%;
+}
+
+.header-logo-mobile{
+  position: relative;
+  margin-top: 1%;
+  width:40%;
+  margin-left: 30%;
+}

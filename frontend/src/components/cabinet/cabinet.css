@@ -1,0 +1,110 @@
+.cabinetbody{
+    position: relative;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 5%; 
+    width: 90%;
+    height: 800px;
+    background: rgba(53, 70, 72, 0.4);
+    overflow-y: scroll;
+    table-layout: fixed;
+}
+
+.pen{
+    width: 5%;
+    height: 5%;
+    margin-left: 20%;
+}
+
+.avatar{
+    margin-left: 10%;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.6);
+}
+
+.info{
+    margin-left: 20%;
+}
+
+.username{
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Pridi;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 56px;
+    letter-spacing: 0.025em;
+    margin-top: 20%;
+    color: #F4EBDB;
+}
+
+.email{
+    margin-top: 30%;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Pridi;
+    color: #F4EBDB;
+}
+
+.password{
+    margin-top: 5%;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Pridi;
+    color: #F4EBDB;
+}
+
+.FIO{
+    margin-top: 5%;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Pridi;
+    color: #F4EBDB;
+}
+
+.compc{
+    margin-top: 20%;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Pridi;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 56px;
+    letter-spacing: 0.025em;
+
+    color: #F4EBDB;
+}
+
+.coursess{
+    margin-top: 5%;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Pridi;
+    color: #F4EBDB;
+}
+
+.changeava{
+    position: relative;
+    margin-left: 50%;
+    margin-top: 10%;
+    font-family: Pridi;
+    color: #F4EBDB;
+}
+
+.avatartable{
+    border-spacing: 0px 500px;
+}
+
+
+
+
+
+
+

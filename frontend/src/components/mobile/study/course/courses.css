@@ -1,0 +1,8 @@
+.panel-m{
+    position: relative;
+    margin-top: 18px;
+    left: 2,5%; 
+    width: 95%;
+    height: 15%;
+    background: rgba(53, 70, 72, 0.6);
+}

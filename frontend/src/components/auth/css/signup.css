@@ -1,0 +1,38 @@
+@import "https://fonts.googleapis.com/css?family=Pridi";
+
+.login {
+    text-align: left;
+    padding: 1em;
+    margin: 1em;
+    border-radius: .5em;
+    vertical-align: middle;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    margin-top: 100px;
+    background: rgba(53, 70, 72, 0.6);
+  }
+  
+  .form {
+    padding: 1em;
+  }
+  
+  label {
+    display: flex;
+    font-weight: 600;
+    font-family: Pridi;
+    color: #F4EBDB;
+  }
+  
+  button {
+    justify-content: flex-end;
+  }
+
+  .name{
+    font-family: Pridi;
+    color: #F4EBDB;
+  }
+
+  .ccc{
+    height: 40px;
+  }

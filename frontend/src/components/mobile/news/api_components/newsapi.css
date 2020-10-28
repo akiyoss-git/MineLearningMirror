@@ -1,0 +1,47 @@
+@import "https://fonts.googleapis.com/css?family=Pridi";
+
+
+.title-m{
+    color: white;
+    font-weight: bold;
+    font-family: Pridi;
+    color: #F4EBDB;
+}
+
+.text-m{
+    margin-top: 3%;
+    position: relative;
+    font-family: Pridi;
+    color: #F4EBDB;
+}
+
+.block-m{
+    position: relative;
+    margin-top: 1%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height: 10%;
+    background: rgba(53, 70, 72, 0.6);
+    margin-bottom: 2%;
+}
+
+.newsblock{
+    margin-top: 3%;
+    margin-left: 10%;
+    font-family: Pridi;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px; 
+    line-height: 30px;
+    display: flex;
+    letter-spacing: 0.025em;
+    color: #F4EBDB;
+}
+
+.pic-m{
+    position: relative;
+    width: 20%;
+    height: 20%;
+    margin-left: 2%
+}

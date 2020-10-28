@@ -1,0 +1,37 @@
+@import "https://fonts.googleapis.com/css?family=Pridi";
+
+.aboutimg-m{
+width: 160px;
+}
+
+.ms{
+    margin-top: 1%;
+}
+
+.abouttable-m{
+    position: relative;
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-bottom:2%;
+    width: 90%;
+    height: 10%;
+    background: rgba(53, 70, 72, 0.6);
+    overflow-y: scroll;
+    border-spacing: 0px 11px; /* Расстояние между ячейками */ 
+    border: rgba(53, 70, 72, 0.0);
+    table-layout: fixed;
+}
+
+.abouttitle-m{
+    position: relative;
+    font-weight: bold;
+    font-family: Pridi;
+    color: #F4EBDB;
+}
+
+.abouttext-m{
+    margin-top: 3%;
+    position: relative;
+    font-family: Pridi;
+    color: #F4EBDB;
+}
